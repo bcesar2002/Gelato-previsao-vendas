@@ -1,0 +1,1 @@
+# 🍦 Projeto Gelato Mágico — Previsão de Vendas com Azure Machine Learning AutoML
